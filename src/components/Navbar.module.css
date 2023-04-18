@@ -1,0 +1,63 @@
+.page{
+    width: 1080;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.Navbar{
+    display: flex;
+    color: purple;
+    padding: 10px;
+}
+
+.NavElement{
+    margin: 20px;
+    font-size: 2.5rem;
+}
+
+.bottomBorder{
+    border-bottom: 5px solid purple;
+}
+
+.SecondNav{
+    display: flex;
+    width: 1380px;
+    justify-content: space-between;
+}
+
+.user{
+    display: flex;
+
+}
+
+.logo{
+    margin-left: 60px;
+    font-size: 2rem;
+}
+
+.login{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin-right: 10px;
+}
+
+.register{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin-right: 10px;
+}

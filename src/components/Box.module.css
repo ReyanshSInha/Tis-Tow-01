@@ -1,0 +1,29 @@
+.Box{
+    width: 500px;
+    height: 600px;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boxHeader{
+    width: 90%;
+    height: 80px;
+    background-color: pink;
+}
+
+.boxImage{
+    width: 90%;
+    height: 300px;
+    background-color: yellowgreen;
+}
+
+.boxContent{
+    width: 90%;
+    height: 250px;
+    background-color: magenta;
+}
+

@@ -1,0 +1,26 @@
+.WhyTisTow{
+    width: 100vw;
+    height: 60vh;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Heading{
+    font-size: 4rem;
+}
+
+.Points{
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.point{
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    background-color: purple;
+    
+}
